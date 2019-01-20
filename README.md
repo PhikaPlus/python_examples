@@ -41,4 +41,7 @@
  ایموجی در پایتون
 
 - [take_screenshot.py](https://github.com/phikaplus/python_examples/blob/master/Level2_Examples/take_screenshot.py):
-گرفتن **اسکرین شات** با پایت.ن
+گرفتن **اسکرین شات** با پایتون
+
+- [send_email.py](https://github.com/PhikaPlus/python_examples/blob/master/Level2_Examples/send_email.py): 
+فرستادن **ایمیل** با پایتون
