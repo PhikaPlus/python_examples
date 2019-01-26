@@ -45,3 +45,6 @@
 
 - [send_email.py](https://github.com/PhikaPlus/python_examples/blob/master/Level2_Examples/send_email.py): 
 فرستادن **ایمیل** با پایتون
+
+- [play_mp3_mp4.py](https://github.com/PhikaPlus/python_examples/blob/master/Level2_Examples/play_mp3_mp4.py)
+باز کردن فایل **mp3** یا  **mp4**
